@@ -1,0 +1,3 @@
+alias and="cd documents/development/AndroidStudioProjects"
+alias subl='"C:\Users\Computer\Documents\Development\Subl\subl.exe"'
+git config --global core.editor '"C:\Users\Computer\Documents\Development\Subl\subl.exe" -n -w'
